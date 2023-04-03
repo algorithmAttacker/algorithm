@@ -18,7 +18,7 @@
 |  | 윤채현 | 조수하 |
 | --- | --- | --- |
 | Github | [@yunchaehyun](https://github.com/yunchaehyun) | [@assistant8](https://github.com/assistant8) |
-| Week 01 |  |  |
+| Week 01 | ☑️ | ☑️ |
 | Week 02 |  |  |
 | Week 03 |  |  |
 | Week 04 |  |  |
