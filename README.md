@@ -20,7 +20,7 @@
 | Github | [@yunchaehyun](https://github.com/yunchaehyun) | [@assistant8](https://github.com/assistant8) |
 | Week 01 | ☑️ | ☑️ |
 | Week 02 | ☑️ | ☑️ |
-| Week 03 |  |  |
+| Week 03 | ☑️ | ☑️ |
 | Week 04 |  |  |
 | Week 05 |  |  |
 | Week 06 |  |  |
