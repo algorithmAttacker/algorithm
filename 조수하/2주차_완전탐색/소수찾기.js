@@ -41,6 +41,6 @@ function isPrime(num) {
 }
 
 
-console.log("답 " + solution("143"))
+console.log("답 " + solution("17"))
 
 //for(var i=2; i<Math.floor(num/2); i++) 소수에서 이거 왜 안되는지.. 모르겠음 
