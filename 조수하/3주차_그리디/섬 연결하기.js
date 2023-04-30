@@ -28,7 +28,6 @@ function solution(n, costs) {
         if(connect.length === n) break;
     }
     
-    
     return answer;
 }
 

@@ -29,6 +29,7 @@
 //     return answer;
 // }
 
+// splice, 투포인터의 방법, resultidx가 탄사람?
 function solution(people, limit) {
     people.sort((a,b) => a-b); // 배열을 오름차순으로 정렬
     let answer = 0;
