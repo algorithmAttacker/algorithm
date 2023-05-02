@@ -44,13 +44,13 @@ function solution(name) {
     }
 
     console.log("최종1", count1)
-    console.log("최종2", count2)
+    console.log("최종2", count2) //정방향 역방향 둘 중 나은거 고르기 
     return count1 > count2 ? count2 : count1;
 }
 solution("ABAAAAAAAAABB") //7
 
 
-//윤코드
+//윤코드 - 구글링 딴거 맞는게 없음 
 function solution(name) {
     var answer = 0;
   
