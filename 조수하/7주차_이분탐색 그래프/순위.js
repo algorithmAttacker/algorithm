@@ -1,11 +1,13 @@
 function solution(n, results) {
     // 그래프 초기화
     const graph = Array.from({ length: n }, () => Array(n).fill(false));
+    console.log("1", graph)
   
     // 간선 추가
     for (let [winner, loser] of results) {
       graph[winner - 1][loser - 1] = true;
     }
+    console.log("2", graph)
   
     // 각 선수에 대해 DFS를 통해 도달 가능한 노드 수 계산
     const counts = Array(n).fill(0);
@@ -36,3 +38,7 @@ function solution(n, results) {
   
     return answer;
   }
+
+const n = 5;
+const results = [[4, 3], [4, 2], [3, 2], [1, 2], [2, 5]];
+console.log(solution(n, results)); // 출력: 2
