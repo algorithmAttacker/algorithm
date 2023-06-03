@@ -1,3 +1,5 @@
+// 구글링해서 풀었어여
+
 function solution(numbers) {
   let answer = numbers
     .map((ele) => ele.toString())
